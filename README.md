@@ -12,15 +12,6 @@ I discovered Udemy and started learning basic HTML and CSS during my shuttle rid
 ## Check out my work
 I'm currently working on GrubBase, Everyone's a Critic, and EZ-Sync.
 
-### [Grubbase](https://www.grubbase.com)
-A meal planning progressive web app. Tailors recipes and meal plans to each user's caloric needs and allows users to easily track their progress through dashboards and smartly designed views.
-#### Technologies
-**Database:** MySQL, S3  
-**Backend:** Python, Django, Django Rest Framework  
-**Testing:** Selenium  
-**Frontend:** jQuery  
-**Infrastructure:** Heroku  
-
 ### [Everyone's a Critic](https://github.com/everyones-a-critic)
 Created on the premise that taste is individualistic, in a world that imposes critical homogeneity. Allows users to rate their favorite products and makes recommendations based on their tastes.
 
@@ -33,7 +24,16 @@ Created on the premise that taste is individualistic, in a world that imposes cr
 * Communities Service: Python, AWS Lambda, Docker
 * Ratings Service: Java, Spring Boot, Docker, Elastic Container Service creating AWS Fargate tasks hosted on a VPC with monitoring via a Network Load Balancer.
 
-### EZ-Sync (Coming Soon)
+### [Grubbase](https://www.grubbase.com)
+A meal planning progressive web app. Tailors recipes and meal plans to each user's caloric needs and allows users to easily track their progress through dashboards and smartly designed views.
+#### Technologies
+**Database:** MySQL, S3  
+**Backend:** Python, Django, Django Rest Framework  
+**Testing:** Selenium  
+**Frontend:** jQuery  
+**Infrastructure:** Heroku  
+
+### EZ-Sync *(Coming Soon)*
 A Salesforce App purpose-built for syncing data between Salesforce and external cloud databases. Hosted and built entirely in the Salesforce platform so companies can limit their technology footprint.
 
 #### Technologies

@@ -15,7 +15,7 @@ Ever since, I've been building and learning. Along the way, I've been continuall
     <summary><a href="https://github.com/everyones-a-critic"><b>Everyone's a Critic</b></a></summary>
     </br>
     <p>
-        Allows users to rate their favorite products and makes recommendations based on their tastes. Created on the premise that taste is individualistic, in a world that celebrates conformity.
+        A mobile app that allows users to rate their favorite products and makes recommendations based on their tastes. Created on the premise that taste is individualistic, in a world that celebrates conformity.
     </p>
     <h4>Technologies</h4>
     <ul>
@@ -29,7 +29,6 @@ Ever since, I've been building and learning. Along the way, I've been continuall
             <li>Ratings Service: Java, Spring Boot, Docker, Elastic Container Service creating AWS Fargate tasks hosted on a VPC with monitoring via a Network Load Balancer.</li>
         </ul>
     </ul>
-    <h4>Feature Highlights</h4>
     <p>
 </details>
 
@@ -41,7 +40,7 @@ Ever since, I've been building and learning. Along the way, I've been continuall
     </p>
     <h4>Technologies</h4>
     <ul>
-        <li><b>Database: </b>MySQL, AWS S3</li>
+        <li><b>Database: </b>PostgreSQL, AWS S3</li>
         <li><b>Backend: </b> Python, Django, Django Rest Framework, Google Cloud Vision API</li>
         <li><b>Testing: </b> Selenium</b></li>
         <li><b>Frontend: </b>jQuery</li>  
